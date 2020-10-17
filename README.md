@@ -1,3 +1,3 @@
-# excel_homework-
+# Excel_Homework-
 
 # First week of data homework!
